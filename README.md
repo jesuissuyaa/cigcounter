@@ -16,6 +16,7 @@ implemented with Google Apps Script
   - Project version: new
   - Execute app as: me
   - Who has access to the app: everyone
+  - use Stackdriver Logging to check for deployment results
 
 ### credit
 code based on tutorial: http://takagusu.hateblo.jp/entry/2017/02/26/010710
